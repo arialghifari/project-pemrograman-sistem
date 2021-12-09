@@ -1,5 +1,5 @@
 # Project Pemrograman Sistem
-Project Lampu Otomatis &amp; Pencegah Kerumunan di Dalam Ruangan
+Project Lampu Otomatis &amp; Pencegah Kerumunan di Dalam Ruangan Menggunakan Sensor Ultrasonik
 
 ### Alat & Bahan
 
