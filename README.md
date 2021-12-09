@@ -1,4 +1,4 @@
-# project-pemsis
+# Project Pemrograman Sistem
 Project Lampu Otomatis &amp; Pencegah Kerumunan di Dalam Suatu Ruangan
 
 ### Alat & Bahan
