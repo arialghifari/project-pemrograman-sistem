@@ -18,7 +18,7 @@ Project Lampu Otomatis &amp; Pencegah Kerumunan di Dalam Suatu Ruangan
 
 ### Rangkaian Tinkercad
 
-![Rangkaian](https://github.com/arialghifari/project-pemsis/rangkaian.jpg?raw=true)
+![Rangkaian](https://github.com/arialghifari/project-pemrograman-sistem/rangkaian.jpg?raw=true)
 
 ### Demo
 
