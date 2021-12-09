@@ -16,7 +16,7 @@ Project Lampu Otomatis &amp; Pencegah Kerumunan di Dalam Ruangan
 - Panel Lcd 1pcs
 - Buzzer 1pcs
 
-### Rangkaian Tinkercad
+### Rangkaian Simulasi Tinkercad
 
 ![Rangkaian](https://github.com/arialghifari/project-pemrograman-sistem/blob/main/rangkaian.jpg)
 
